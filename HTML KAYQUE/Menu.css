@@ -1,0 +1,59 @@
+h1,
+h2 {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+}
+
+
+.moedas_lista {
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+
+.sla {
+    display: inline-flex;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.sla li {
+    list-style: none;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-size: 30px;
+}
+
+.sla img {
+    margin-left: 20px;
+    width: 72px;
+    height: 72px;
+    border-radius: 100%;
+}
+
+.golden {
+    background-color: rgb(49, 45, 230);
+
+}
+
+.icon {
+    background-color: white;
+    border-radius: 50px;
+    margin-left: 20px;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: black;
+
+}
+
+a:hover {
+    background-color:  rgb(49, 45, 230);
+    color: black
+}
